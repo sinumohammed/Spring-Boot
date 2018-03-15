@@ -1,0 +1,5 @@
+package io.sino.springbootstarter.topic;
+
+public class TopicRepository {
+
+}

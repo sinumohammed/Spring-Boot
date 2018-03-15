@@ -1,0 +1,5 @@
+package io.sino.springbootstarter.hello;
+
+public class HelloController {
+
+}
